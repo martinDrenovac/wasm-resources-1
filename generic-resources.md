@@ -16,6 +16,7 @@
 - [Autodesk blogs](https://www.autodesk.com/blogs/)
 - [Debugging WebAssembly with modern tools](https://developer.chrome.com/blog/wasm-debugging-2020/)
 - [Rust, WASM, and LOK](https://dev.to/knutaf/rust-wasm-and-lok-1dfi) -  [LOK?](https://letibus.itch.io/lok) It's a puzzle game in the form of a grid of squares with letters in them.
+- [WebAssembly Posts](https://withbighair.com/tags/WebAssembly) - looks like a particular focus on embedded systems.
 
 
 ## Github Repos of Interest
